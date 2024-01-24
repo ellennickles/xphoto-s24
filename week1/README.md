@@ -75,8 +75,7 @@
   image-to-image generators make photographs?
 - Be prepared to share and talk about the images in our next class.
 - Submit both images and your reflection on
-  [Brightspace](https://brightspace.nyu.edu).
-
+  [Brightspace](https://brightspace.nyu.edu/d2l/home/344680).
 
 ### Part 2 • [Read](https://drive.google.com/drive/folders/1qIvZPNF94dAizOjOpymky5bexo8bdELj) / Respond
 
@@ -98,7 +97,8 @@
   materials, as well as to share our results with one another.
 - Be sure to include at least one (1) question for discussion or further
   reflection.
-- Submit your response on [Brightspace](https://brightspace.nyu.edu).
+- Submit your response on
+  [Brightspace](https://brightspace.nyu.edu/d2l/home/344680).
 
 ### Part 3 • Bring to class
 
