@@ -15,7 +15,7 @@ Spring 2024
 | Instructor   | Ellen Nickles<br>Contact [ellen.nickles@nyu.edu](mailto:ellen.nickles@nyu.edu)<br>On weekdays I aim to respond within 24 hours between 8:00am - 5:00pm<br>Student Hours Mon & Thu 1:00pm – 3:00pm<br>Zoom or in person [Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUJBXzVpUFp3azhlfGRlZmF1bHR8MDk4NDA1OWMzNzEyMThhZjVkMTgzYWI3YmUxMWNmY2M) |
 | Graduate Assistant  | Lily Crandall<br>Contact [lmc668@nyu.edu](lmc668@nyu.edu)<br>Student Hours TBA<br>Zoom or in person [Sign up here](https://calendar.app.google/VKpWr3HqtK151djo6)|
 | Extra Support | [Resident office hours](https://itp.nyu.edu/help/office-hours/) (schedule) <br>[The Coding Lab](https://codinglab.itp.io/) (schedule or drop-in help) |
-| Quick Links  | [Submit assignments - TBA]()<br>[Assignment responses - TBA]()<br>[Our Miro board](http://tinyurl.com/xphoto-s24-miro)<br>[Photography and technical resources - TBA]()<br>[Our Google Drive folder](https://drive.google.com/drive/folders/1qIvZPNF94dAizOjOpymky5bexo8bdELj) with class slides and readings|  
+| Quick Links  | [Our Miro board](http://tinyurl.com/xphoto-s24-miro)<br>[Submit assignments on Brightspace](https://brightspace.nyu.edu/d2l/home/344680)<br>[Photography and technical resources](https://github.com/ellennickles/xphoto-s24/tree/main/resources)<br>[Our Google Drive folder](https://drive.google.com/drive/folders/1qIvZPNF94dAizOjOpymky5bexo8bdELj) with class slides and readings|  
 
 ## Schedule and Assignments
 
