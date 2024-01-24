@@ -150,7 +150,7 @@ and share links and our photographs.
   are posted above under Course Information.
 - Use our course website here on GitHub to check the schedule (updated as needed
   based on our pace and interests), assignment descriptions, links to course
-  materials including readings in Google Drive.
+  materials including readings in [Google Drive](https://drive.google.com/drive/folders/1qIvZPNF94dAizOjOpymky5bexo8bdELj).
 - Use [NYU Brightspace](https://brightspace.nyu.edu) to submit assignments and
   to receive written assignment feedback and grades.
 
