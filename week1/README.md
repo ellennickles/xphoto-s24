@@ -57,7 +57,7 @@
 
 ## Assignment due Wed Jan 31
 
-[How to get full credit on weekly assignments](link TBA)
+[How to get full credit on weekly assignments](https://github.com/ellennickles/xphoto-s24/tree/main#assessment-and-evaluation)
 
 ### Part 1 • Select / Experiment / Reflect
 
