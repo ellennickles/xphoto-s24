@@ -72,7 +72,8 @@
   try the other version (also linked above). Remember that it's just an
   experiment! Reflect on the process. What prompts and settings were useful (or
   not) in achieving your goal? In your opinion, can text-to-image or
-  image-to-image generators make photographs?
+  image-to-image generators make photographs? [Properly cite your
+  generated content](https://github.com/ellennickles/xphoto-s24#generative-ai-tools) according to our course policy on generative AI tools.
 - Be prepared to share and talk about the images in our next class.
 - Submit both images and your reflection on
   [Brightspace](https://brightspace.nyu.edu/d2l/home/344680).
