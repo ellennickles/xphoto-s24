@@ -318,7 +318,8 @@ Assignments will be evaluated on timeliness, completeness, and engagement with
 the course materials to explore ways of expressing your own points of view. The
 rubrics above are adapted from
 [source](https://bcourses.berkeley.edu/courses/1464145/pages/grading-rubric-for-reading-responses).
-Written feedback and assignment grades will be posted in Brightspace.
+The goal is to post written feedback and assignment grades in Brightspace within
+week of an assignment's submission.
 
 #### Midsemester Progress Report
 
