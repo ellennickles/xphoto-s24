@@ -498,7 +498,7 @@ Example citation for our course:
 - Content generated on Jan 25, 2024
 - URL: [https://beta.dreamstudio.ai](https://beta.dreamstudio.ai)
 
-Adapted from the [NYU Faculty Use of Generative AI in Coursework: Frequently Asked Questions](https://t.e2ma.net/click/w9j5ci/ozu8bgf/4fuzym) (PDF)
+*Adapted from the [NYU Faculty Use of Generative AI in Coursework: Frequently Asked Questions](https://t.e2ma.net/click/w9j5ci/ozu8bgf/4fuzym) (PDF)*
 
 #### Accessibility
 
