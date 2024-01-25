@@ -487,7 +487,7 @@ that it does not violate intellectual property laws, or contain misinformation
 or unethical content). Your use of AI tools must be properly cited, which in this course means including the following in your documentation:
 the name of the AI tool, the company that made the tool, the version/model of
 the AI model used in the tool if available, the prompt you used to generate
-content, the date the content was generated,, and a general URL (link) to the
+content, the date the content was generated, and a general URL (link) to the
 tool that you used.
 
 Example citation for our course:
