@@ -476,6 +476,30 @@ Course](https://docs.google.com/document/d/18UjdDrXUMKgNjIiee9d2WeyV1Z8V1RfBEElk
   Course](http://cmuems.com/2018/60212f/syllabus/academic-integrity/) (Fall
   2018) at Carnegie Mellon University*
 
+#### Generative AI Tools
+
+When instructed, you are welcome and expected to use AI image generators (e.g.
+DALL·E, Midjourney, DreamStudio by Stable Diffusion, etc.) in our course as
+doing so aligns with our learning goal to experiment with the expressive
+possibilities of image making with emerging computational technologies. You are
+responsible for the information submitted based on an AI query (for example,
+that it does not violate intellectual property laws, or contain misinformation
+or unethical content). Your use of AI tools must be properly cited, which in this course means including the following in your documentation:
+the name of the AI tool, the company that made the tool, the version/model of
+the AI model used in the tool if available, the prompt you used to generate
+content, the date the content was generated,, and a general URL (link) to the
+tool that you used.
+
+Example citation for our course:
+
+- DreamStudio by Stability.AI using model SDXL v1.0
+- Prompt: "Red tulips in a red vase on a wood tabletop near a frosted glass
+  window"
+- Content generated on Jan 25, 2024
+- URL: [https://beta.dreamstudio.ai](https://beta.dreamstudio.ai)
+
+Adapted from the [NYU Faculty Use of Generative AI in Coursework: Frequently Asked Questions](https://t.e2ma.net/click/w9j5ci/ozu8bgf/4fuzym) (PDF)
+
 #### Accessibility
 
 It’s crucial for our community to create and uphold learning environments that
