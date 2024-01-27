@@ -35,8 +35,8 @@ Spring 2024
   - Share Homework
   - Workshop: Alternative Shutter Buttons 2
 - Feb 29 • Week 6
-  - Share Homework
   - Workshop: Networked Camera
+  - Artist Talk: [Jason Isolini](https://jisolini.com/)
 - Mar 7 • Week 7
   - Share Homework
   - Workshop: AI Camera
@@ -319,7 +319,7 @@ the course materials to explore ways of expressing your own points of view. The
 rubrics above are adapted from
 [source](https://bcourses.berkeley.edu/courses/1464145/pages/grading-rubric-for-reading-responses).
 The goal is to post written feedback and assignment grades in Brightspace within
-week of an assignment's submission.
+a week of an assignment's due date.
 
 #### Midsemester Progress Report
 
