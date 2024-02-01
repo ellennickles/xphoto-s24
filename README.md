@@ -63,15 +63,15 @@ Spring 2024
 
 ### Contents
 
-- Course Description
-- Learning Objectives
-- Format
-- Community Guidelines
-- Communication and Support
-- Tools
-- Assessment and Evaluation
-- Policies
-- Statements
+- [Course Description](https://github.com/ellennickles/xphoto-s24?tab=readme-ov-file#course-description)
+- [Learning Objectives](https://github.com/ellennickles/xphoto-s24?tab=readme-ov-file#learning-objectives)
+- [Format](https://github.com/ellennickles/xphoto-s24?tab=readme-ov-file#format)
+- [Community Guidelines](https://github.com/ellennickles/xphoto-s24?tab=readme-ov-file#community-guidelines)
+- [Communication and Support](https://github.com/ellennickles/xphoto-s24?tab=readme-ov-file#communication-and-support)
+- [Tools](https://github.com/ellennickles/xphoto-s24?tab=readme-ov-file#tools)
+- [Assessment and Evaluation](https://github.com/ellennickles/xphoto-s24?tab=readme-ov-file#assessment-and-evaluation)
+- [Policies](https://github.com/ellennickles/xphoto-s24?tab=readme-ov-file#policies)
+- [Statements](https://github.com/ellennickles/xphoto-s24?tab=readme-ov-file#statements)
 
 ### Course Description
 
