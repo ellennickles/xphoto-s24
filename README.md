@@ -22,7 +22,7 @@ Spring 2024
 - Jan 25 • [Week 1](https://github.com/ellennickles/xphoto-s24/tree/main/week1)
   - Welcome! What is photography?
   - Workshop: Then and Now
-- Feb 1 • Week 2
+- Feb 1 • [Week 2](https://github.com/ellennickles/xphoto-s24/tree/main/week2)
   - Share Homework / Elements of Photograph
   - Workshop: Making Photographs with p5.js
 - Feb 8 • Week 3
