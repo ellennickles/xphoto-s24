@@ -92,6 +92,11 @@ assignments](https://github.com/ellennickles/xphoto-s24/tree/main#assessment-and
 - Submit your response on
   [Brightspace](https://brightspace.nyu.edu/d2l/home/344680).
 
+### Part 3 • Bring to class
+
+- Please bring the webcam you received in class today back to class next week
+  (along with your USB adapter, if needed).
+
 ___
 
 ## Prepare for Weeks 4-5
