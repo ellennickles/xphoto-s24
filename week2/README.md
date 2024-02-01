@@ -75,7 +75,6 @@ assignments](https://github.com/ellennickles/xphoto-s24/tree/main#assessment-and
 ### Part 2 • [Read](https://drive.google.com/drive/folders/1qIvZPNF94dAizOjOpymky5bexo8bdELj) / Respond
 
 - The “decisive moment” is a recurring idea in photography. Read the following:
-
   1. The Introduction to *The Decisive Moment* by Henri Cartier-Bresson
      (1952)
   2. "Interview with Henri Cartier-Bresson from Famous Photographers Tell How
