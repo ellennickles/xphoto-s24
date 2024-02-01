@@ -13,7 +13,7 @@ Spring 2024
 | Location   | 370 Jay Street Brooklyn • Room 410  |
 | Remote Access | This is an in-person course, but just in case<br>1. [Log into NYU](https://nyu.zoom.us/)<br>2. [Zoom meeting](https://nyu.zoom.us/j/97101823122?pwd=aHUwcWxSMWVPS2x5dDB2SkNPamV0dz09)|
 | Instructor   | Ellen Nickles<br>Contact [ellen.nickles@nyu.edu](mailto:ellen.nickles@nyu.edu)<br>On weekdays I aim to respond within 24 hours between 8:00am - 5:00pm<br>Student Hours Mon & Thu 1:00pm – 3:00pm<br>Zoom or in person [Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUJBXzVpUFp3azhlfGRlZmF1bHR8MDk4NDA1OWMzNzEyMThhZjVkMTgzYWI3YmUxMWNmY2M) |
-| Graduate Assistant  | Lily Crandall<br>Contact [lmc668@nyu.edu](lmc668@nyu.edu)<br>Student Hours TBA<br>Zoom or in person [Sign up here](https://calendar.app.google/VKpWr3HqtK151djo6)|
+| Graduate Assistant  | Lily Crandall<br>Contact [lmc668@nyu.edu](lmc668@nyu.edu)<br>Student Hours Wed 12:00pm - 2:00pm<br>Zoom or in person [Sign up here](https://calendar.app.google/VmZKHgkrxA3Wfkoc7)|
 | Extra Support | [Resident office hours](https://itp.nyu.edu/help/office-hours/) (schedule) <br>[The Coding Lab](https://codinglab.itp.io/) (schedule or drop-in help) |
 | Quick Links  | [Our Miro board](http://tinyurl.com/xphoto-s24-miro)<br>[Submit assignments on Brightspace](https://brightspace.nyu.edu/d2l/home/344680)<br>[Photography and technical resources](https://github.com/ellennickles/xphoto-s24/tree/main/resources)<br>[Our Google Drive folder](https://drive.google.com/drive/folders/1qIvZPNF94dAizOjOpymky5bexo8bdELj) with class slides and readings|  
 
