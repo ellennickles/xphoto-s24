@@ -276,7 +276,7 @@ discussions and activities.
 
 ##### Grading Rubric for Reading Responses
 
-Written reading responses are worth four (4 points), one (1) point for each of the following:
+Written reading responses are worth four (4) points, one (1) point for each of the following:
 
 1. The response addresses the reading prompt (200 words minimum);
 2. includes a position, opinion, and/or proposal that does not merely summarize
