@@ -300,7 +300,7 @@ Specific grading criteria for each stage will be provided later in the semester.
 
 #### Assignment Deadlines
 
-All assignments are required, and unless otherwise stated, are **due the night before our class meets**, one (1) week after they are assigned. Assignments turned in late, up to one (1) week, will receive partial credit, as described in the grading rubrics above.
+All assignments are required, and unless otherwise stated, are **due the night before our class meets**, one (1) week after they are assigned. Assignments turned in late will receive partial credit, as described in the grading rubrics above.
 
 #### Late Assignments
 
