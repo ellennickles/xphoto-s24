@@ -252,7 +252,7 @@ over time and note any technical complications.
 
 Photography experiments and reflections are worth four (4) points, one (1) point for each of the following:
 
-1. The exercise addresses the creative prompt;
+1. The exercise addresses the creative prompt (100 words minimum);
 2. demonstrates evidence of experimentation with results that are distinct from
    the examples and other projects;
 3. reflects on your resulting images and your experience of making them (e.g.
@@ -278,7 +278,7 @@ discussions and activities.
 
 Written reading responses are worth four (4 points), one (1) point for each of the following:
 
-1. The response addresses the reading prompt;
+1. The response addresses the reading prompt (200 words minimum);
 2. includes a position, opinion, and/or proposal that does not merely summarize
    what others have said, but represents your own thoughts even if they are
    tentative;
