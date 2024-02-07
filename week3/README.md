@@ -30,7 +30,7 @@
 
 - [Slides](https://drive.google.com/drive/folders/1qIvZPNF94dAizOjOpymky5bexo8bdELj?usp=drive_link)
 - [The Indecisive
-  Memento](https://drive.google.com/drive/folders/1qIvZPNF94dAizOjOpymky5bexo8bdELj?usp=drive_link)
+  Memento]([https://drive.google.com/drive/folders/1qIvZPNF94dAizOjOpymky5bexo8bdELj?usp=drive_link](https://drive.google.com/drive/u/1/folders/1hwUhvl2MLAHaZwRsTo-s0Mswmw6V6UpG))
   by Nick Waplington (1998)
 - p5 starter sketches (use Chrome)
   - Set camera order, restart when connecting/disconnecting devices
