@@ -25,7 +25,7 @@ Spring 2024
 - Feb 1 • [Week 2](https://github.com/ellennickles/xphoto-s24/tree/main/week2)
   - Share Homework / Elements of Photograph
   - Workshop: Making Photographs with p5.js
-- Feb 8 • Week 3
+- Feb 8 • [Week 3](https://github.com/ellennickles/xphoto-s24/tree/main/week3)
   - Share Homework
   - Workshop: Multiple Cameras, Simultaneous Captures
 - Feb 15 • Week 4

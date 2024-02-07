@@ -22,7 +22,8 @@ We will use the following questions during our weekly review sessions to draw aw
    photograph make you think of?
 
 8. What is one (1) question that you have about the work? Only positive and
-   neutral questions, for example: "I am still curious about [something] …to me
-   it looks a little more [something] here than over here. Why might that be?"
-   AND "I was wondering about how [something] got to be this way or how [some
+   neutral questions, for example:
+   - "I am still curious about [something] …to me it looks a little more
+     [something] here than over here. Why might that be?"
+   - "I was wondering about how [something] got to be this way or how [some
    effect] was achieved.”
