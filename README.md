@@ -28,7 +28,7 @@ Spring 2024
 - Feb 8 • [Week 3](https://github.com/ellennickles/xphoto-s24/tree/main/week3)
   - Share Homework
   - Workshop: Multiple Cameras, Simultaneous Captures
-- Feb 15 • Week 4
+- Feb 15 • [Week 4](https://github.com/ellennickles/xphoto-s24/tree/main/week4)
   - Share Homework
   - Workshop: Alternative Shutter Buttons 1
 - Feb 22 • Week 5
