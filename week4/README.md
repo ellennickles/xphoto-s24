@@ -56,7 +56,7 @@ assignments](https://github.com/ellennickles/xphoto-s24/tree/main#assessment-and
   the code. Write a short reflection on your process and results. What does the
   image show? Why do you like the image? What qualities do you observe (see
   [Elements of a
-  Photograph](https://github.com/ellennickles/xphoto-s24/tree/main/resources))?
+  Photograph](https://github.com/ellennickles/xphoto-s24/blob/main/resources/photograph-elements.md))?
   What did you have trouble with? What would you do differently next time?
   Describe the experience of creating the images? What did you feel? What was
   surprising, enjoyable, or challenging?
