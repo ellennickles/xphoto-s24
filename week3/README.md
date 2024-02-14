@@ -110,7 +110,7 @@ ___
   minute if you need to order anything.
 - Gather the following materials:
   - Arduino (Uno or Nano 33 IoT depending on when you took Creative Computing)
-  - Cables to connect your Arduino to you computer
+  - Cables to connect your Arduino to your computer
   - Solderless breadboard
   - Jumper wires
   - Sensor(s) with which you have previous experience or are excited to use (but
