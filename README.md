@@ -31,9 +31,9 @@ Spring 2024
 - Feb 15 • [Week 4](https://github.com/ellennickles/xphoto-s24/tree/main/week4)
   - Share Homework
   - Workshop: Alternative Shutter Buttons 1
-- Feb 22 • Week 5
-  - Share Homework
+- Feb 22 • [Week 5](https://github.com/ellennickles/xphoto-s24/tree/main/week5)
   - Workshop: Alternative Shutter Buttons 2
+  - Share Homework
 - Feb 29 • Week 6
   - Workshop: Networked Camera
   - Artist Talk: [Jason Isolini](https://jisolini.com/)
