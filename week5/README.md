@@ -81,8 +81,9 @@ assignments](https://github.com/ellennickles/xphoto-s24/tree/main#assessment-and
       own relationship to surveillance practices (visual and non-visual)? If so, how?
 - PART 2: Question
   - Next week artist [Jason Isolini](https://jisolini.com) will visit and share
-    his work with our class. Review and interact(!) with his project, [The Ballard
-    of a Laborer](https://jisolini.com/#/ballad-of-loosii-ninjas/), and come up
+    his work with our class. Review his project, [The Ballard
+    of a Laborer](https://jisolini.com/#/ballad-of-loosii-ninjas/), and
+    [interact with it here](https://microscopegallery.com/platform/). Come up
     with at least one (1) question to ask him during his visit. Include this
     question in your reading response.
 - Submit your response and question for Jason on
