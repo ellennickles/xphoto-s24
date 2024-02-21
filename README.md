@@ -222,7 +222,9 @@ attendance, assignments, or anything else on your mind.
 - NYU Zoom (if needed)
 - [Webcam Apps](https://docs.google.com/document/d/1iKVfwT5KNLXXyVVEEyFhxoOsjRT9ciKUbds_inFBKPA)
   to adjust external webcam settings
-- Generative AI Text-to-Image (TBA) ~$10-20
+- Generative AI images with
+  [Midjourney](https://www.midjourney.com/explore), a minimum $10.89 monthly
+  subscription (cancel at any time), on the free platform, [Discord](https://discord.com/)
 - Augmented Reality (AR) (TBA)
 - Adobe Creative Cloud Suite Apps, which [NYU provides free of
   charge](https://itp.nyu.edu/help/free-copy-of-adobe/). If you have trouble
