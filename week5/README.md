@@ -66,7 +66,7 @@ assignments](https://github.com/ellennickles/xphoto-s24/tree/main#assessment-and
     - "The Changing Gaze: From Documentary Photography to Voyeurism to
     Surveillance" by Ann-Christin Bertrand
     - OR “The Machine Sensorium” by James Bridle
-  - Respond 1
+  - Please respond to both prompts
     - Both of these essays are from the exhibition catalog accompanying,
       [_Watched! Surveillance, Art &
       Photography_](https://www.youtube.com/watch?v=aCVnV7Vl7HE) (2016). Using
@@ -75,7 +75,6 @@ assignments](https://github.com/ellennickles/xphoto-s24/tree/main#assessment-and
       private conditions, power relations, "persistance of vision" (Bridle), the
       information/data an image contains, and the contexts in which images are
       made and distributed (Bertrand).
-  - Respond 2
     - What is your response to the idea that non-human operated remote cameras
       are more "objective" and "authentic"? Is your response informed by your
       own relationship to surveillance practices (visual and non-visual)? If so, how?
