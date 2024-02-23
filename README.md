@@ -254,14 +254,14 @@ over time and note any technical complications.
 
 Photography experiments and reflections are worth four (4) points, one (1) point for each of the following:
 
-1. The exercise addresses the creative prompt (100 words minimum);
+1. The exercise addresses the creative prompt;
 2. demonstrates evidence of experimentation with results that are distinct from
    the examples and other projects;
 3. reflects on your resulting images and your experience of making them (e.g.
    What does/do the image/s show? What qualities do you like best? Consider
    framing, lighting, composition, and content, etc. What did you have trouble
    with? What would you do differently next time? Describe the experience of
-   creating the image/s? What did you feel? What was surprising, enjoyable, or challenging?);
+   creating the image/s? What did you feel? What was surprising, enjoyable, or challenging?) (100 words minimum);
 4. is submitted on time.
 
 For any assignment that uses code, not properly citing code sources is grounds
