@@ -108,3 +108,24 @@ assignments](https://github.com/ellennickles/xphoto-s24/tree/main#assessment-and
   reflection.
 - Submit your response (including the artist's image that your selected) on
   [Brightspace](https://brightspace.nyu.edu/d2l/home/344680).
+
+### Part 3 • Prepare for next week
+
+- Next week in class, we will use Midjourney, an AI image generator accessible
+  from within the app, Discord.
+  - For this you will need to create Discord account if you don't already
+    have one.
+  - You will also need to subscribe to a Midjourney plan with a credit card. I
+    recommend the Monthly Basic Plan of $10.89 per month (this includes taxes).
+    You can cancel this plan at any time. However, you might want to keep it if
+    you decide to use it for other projects in our course.
+- Follow this [Midjourney Quick Start
+  Guide](https://docs.midjourney.com/docs/quick-start) to get set up. Complete
+  all of the steps before coming to class so that you are ready for our workshop.
+- If you are new to Discord, Midjourney also provides this handy documentation
+  on the [Discord
+  Interface](https://docs.midjourney.com/docs/midjourney-discord). You can also
+  check out [Discord's Beginner's
+  Guide](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord).
+- If you're not sure about anything here, please contact Ellen with your
+  questions or concerns. 
