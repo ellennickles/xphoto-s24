@@ -112,7 +112,7 @@ assignments](https://github.com/ellennickles/xphoto-s24/tree/main#assessment-and
 ### Part 3 • Prepare for next week
 
 - Next week in class, we will use [Midjourney](https://www.midjourney.com/home),
-  an AI image generator accessible from within the app, Discord.
+  an AI image generator accessible from within the app, [Discord](https://discord.com/).
   - For this you will need to create Discord account if you don't already
     have one.
   - You will also need to subscribe to a Midjourney plan with a credit card. I
@@ -128,4 +128,4 @@ assignments](https://github.com/ellennickles/xphoto-s24/tree/main#assessment-and
   check out [Discord's Beginner's
   Guide](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord).
 - If you're not sure about anything here, please contact Ellen with your
-  questions or concerns. 
+  questions or concerns.
