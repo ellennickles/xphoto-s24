@@ -45,7 +45,7 @@
 - [Add, remove, or share photos or videos in Google
   Maps](https://support.google.com/maps/answer/2622947?hl=en&co=GENIE.Platform=Desktop)
 
-## Assignment due Wed Feb 6
+## Assignment due Wed Mar 6
 
 [How to get full credit on weekly
 assignments](https://github.com/ellennickles/xphoto-s24/tree/main#assessment-and-evaluation)
@@ -106,13 +106,13 @@ assignments](https://github.com/ellennickles/xphoto-s24/tree/main#assessment-and
     - Does this change your answer to Part 1's question above? How so?
 - Be sure to include at least one (1) question for discussion or further
   reflection.
-- Submit your response (including the artist's image that your selected) on
+- Submit your response (including the selected artist's image) on
   [Brightspace](https://brightspace.nyu.edu/d2l/home/344680).
 
 ### Part 3 • Prepare for next week
 
-- Next week in class, we will use Midjourney, an AI image generator accessible
-  from within the app, Discord.
+- Next week in class, we will use [Midjourney](https://www.midjourney.com/home),
+  an AI image generator accessible from within the app, Discord.
   - For this you will need to create Discord account if you don't already
     have one.
   - You will also need to subscribe to a Midjourney plan with a credit card. I
