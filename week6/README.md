@@ -66,13 +66,14 @@ assignments](https://github.com/ellennickles/xphoto-s24/tree/main#assessment-and
   seeing what is right in front of
   you...](https://github.com/ellennickles/xphoto-s24/blob/main/resources/is-it-alive.md)
   by Joanne Dugan for some ideas.
-- Post the images on your blog. Again, you can configure them as you see fit for
-  the work on your blog. Write a short reflection on your process and
-  results. What do the images show? Why do you like the image? What qualities
-  do you like best (see [Elements of a Photograph](https://github.com/ellennickles/xphoto-s24/blob/main/resources/photograph-elements.md))?
+- Submit your images. Arrange them as you see fit for the work. Write a
+  reflection on your process and results. What do the images show? Why is it
+  necessary to show them as a collection instead of individually? Why do you
+  like the image? What qualities do you observe (see [Elements of a
+  Photograph](https://github.com/ellennickles/xphoto-s24/blob/main/resources/photograph-elements.md))?
   If you're working in color, how are you considering color choices? What did
   you have trouble with? What would you do differently next time? Describe the
-  experience of creating the images? What did you feel? What was surprising,
+  experience of creating the collection? What did you feel? What was surprising,
   enjoyable, or challenging?
 - Submit your images and reflection on
   [Brightspace](https://brightspace.nyu.edu/d2l/home/344680).
@@ -84,8 +85,9 @@ assignments](https://github.com/ellennickles/xphoto-s24/tree/main#assessment-and
     - "[A.I. Is the Future of Photography. Does That Mean Photography Is
     Dead?](https://www.nytimes.com/2023/12/26/opinion/ai-future-photography.html?smid=nytcore-ios-share&referringSource=articleShare)" by Gideon Jacobs, *New York Times*, Dec 26, 2023.
   - Respond:
-    - How would do you answer the question at the end of the interview? What is
-      your opinion?
+    - The author of this article interviews four artists working with
+      AI-generated images about the relationship between those types of images
+      and photographs. Which of their opinions resonates most with you and why?
 - Part 2 (DO NEXT): *[Post Photographic
   Perspectives](https://postphotography.xyz/ppp1/index-szn-1)* presented by
   Fellowship and curated by Roope Rainisto, was a summer 2023 group
@@ -97,11 +99,12 @@ assignments](https://github.com/ellennickles/xphoto-s24/tree/main#assessment-and
     - Or read the interview with the [show's
     curator](https://postphotography.xyz/in-conversation).
   - Respond:
-    - Does anything in their approach to using AI methods resonates with you?
-      Why or why not? Support this with quotes from the interview and your
-      observations of their work.
-    - Does this change your response to Part 1's question above? How so?
+    - What in their approach to using AI methods resonates with you, either
+      positively or adversely? Why?
+    - Select one of the artist's images from the show / interview and use your
+      observations of the image to support your response.
+    - Does this change your answer to Part 1's question above? How so?
 - Be sure to include at least one (1) question for discussion or further
   reflection.
-- Submit your response on
+- Submit your response (including the artist's image that your selected) on
   [Brightspace](https://brightspace.nyu.edu/d2l/home/344680).
