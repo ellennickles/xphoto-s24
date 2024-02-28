@@ -83,7 +83,7 @@ assignments](https://github.com/ellennickles/xphoto-s24/tree/main#assessment-and
 - Part 1 (DO FIRST):
   - Read: New York Times Opinion
     - "[A.I. Is the Future of Photography. Does That Mean Photography Is
-    Dead?](https://www.nytimes.com/2023/12/26/opinion/ai-future-photography.html?smid=nytcore-ios-share&referringSource=articleShare)" by Gideon Jacobs, *New York Times*, Dec 26, 2023.
+    Dead?](https://www.nytimes.com/2023/12/26/opinion/ai-future-photography.html?smid=nytcore-ios-share&referringSource=articleShare)" by Gideon Jacobs, *New York Times*, Dec 26, 2023. (A PDF version is provided in our Google Drive folder, linked above, if you get stuck behind a paywall.)
   - Respond:
     - The author of this article interviews four artists working with
       AI-generated images about the relationship between those types of images
