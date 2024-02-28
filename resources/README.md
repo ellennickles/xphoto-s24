@@ -9,6 +9,8 @@
     Photographs](https://github.com/ellennickles/xphoto-s24/blob/main/resources/looking-at-photographs.md)
   - [Questions for
     Discovery](https://github.com/ellennickles/xphoto-s24/blob/main/resources/questions-for-discovery.md)
+  - [Is it alive? On seeing what is right in front of
+    you...](https://github.com/ellennickles/xphoto-s24/blob/main/resources/is-it-alive.md)
 - Hardware
   - [External Webcams / Apps / Tips](https://tinyurl.com/externalwebcams)
   - [Physical Computing
