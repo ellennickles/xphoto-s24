@@ -21,7 +21,6 @@
 ## In class
 
 - Workshop: Networked Images 1
-- Related Work
 - Artist Talk: [Jason Isolini](https://jisolini.com/)
 
 ## Resources
