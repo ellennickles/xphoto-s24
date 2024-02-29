@@ -68,11 +68,7 @@ assignments](https://github.com/ellennickles/xphoto-s24/tree/main#assessment-and
   by Joanne Dugan for some ideas.
 - Submit your images. Arrange them as you see fit for the work. Write a
   reflection on your process and results. What do the images show? Why is it
-  necessary to show them as a collection instead of individually? Why do you
-  like the image? What qualities do you observe (see [Elements of a
-  Photograph](https://github.com/ellennickles/xphoto-s24/blob/main/resources/photograph-elements.md))?
-  If you're working in color, how are you considering color choices? What did
-  you have trouble with? What would you do differently next time? Describe the
+  necessary to show them as a collection instead of individually? What qualities do you observe in the images (see [Elements of a Photograph](https://github.com/ellennickles/xphoto-s24/blob/main/resources/photograph-elements.md))? If you're working in color, how are you considering color choices? What did you have trouble with? What would you do differently next time? Describe the
   experience of creating the collection? What did you feel? What was surprising,
   enjoyable, or challenging?
 - Submit your images and reflection on
