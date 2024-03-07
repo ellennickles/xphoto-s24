@@ -37,7 +37,7 @@ Spring 2024
 - Feb 29 • [Week 6](https://github.com/ellennickles/xphoto-s24/tree/main/week6)
   - Workshop: Networked Camera
   - Artist Talk: [Jason Isolini](https://jisolini.com/)
-- Mar 7 • Week 7
+- Mar 7 • [Week 7](https://github.com/ellennickles/xphoto-s24/tree/main/week7)
   - Share Homework
   - Workshop: AI Camera
 - Mar 14 • Week 8
