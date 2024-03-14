@@ -74,7 +74,7 @@ assignments](https://github.com/ellennickles/xphoto-s24/tree/main#assessment-and
 
 ### Part 1 • Experiment / Reflect
 
-- Choose your experiment this week!
+- There are two (2) experiments this week:
   - Class introduced the very basics of creating AR objects with photographic
     material in Adobe Aero. Your challenge and opportunity is to experiment with
     possibilities well beyond this starting point. For example, into how many
@@ -88,17 +88,18 @@ assignments](https://github.com/ellennickles/xphoto-s24/tree/main#assessment-and
   - Construct a 3D still life in AR from photographic material.
   - Pick a theme for the still life objects and focus on one [element of
     photography](https://github.com/ellennickles/xphoto-s24/blob/main/resources/photograph-elements.md).
-  - Photograph this still life through your AR app in at least **two** different
-    environments: inside and outside.
-- OR Experiment 2: Portrait
-  - Create a 3D face mask in AR from photographic material to shoot a
-    portrait.
-  - Consider the  personal and cultural significance of masks for ritual and to
-    explore identity, hide, entertain, frighten, etc.
+  - Photograph this still life through your AR app. Be intentional about the
+    setting.
+- Experiment 2: Portrait
+  - Photograph a portrait of yourself or someone else through your AR app.
+  - Include AR assets created from photographic material. Will your AR assets be
+    additive (constructive) or masking (destructive)? Or both?
+  - For a constructive approach, is anything being amplified, enhanced,
+    duplicated? For a mask, perhaps consider the  personal and cultural
+    significance of masks for ritual and to explore identity, hide, entertain,
+    frighten, etc. Just some ideas to get you started.
   - Maybe switch the anchor type to a vertical surface in the object's
     Properties in Adobe Aero? (see related video above)
-  - Photograph the portrait through your AR app in at least **two** different
-    environments.
 - As always, reflect on your process.
 - Submit everything on
   [Brightspace](https://brightspace.nyu.edu/d2l/home/344680).
