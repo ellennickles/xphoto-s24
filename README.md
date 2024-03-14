@@ -40,7 +40,7 @@ Spring 2024
 - Mar 7 • [Week 7](https://github.com/ellennickles/xphoto-s24/tree/main/week7)
   - Share Homework
   - Workshop: AI Camera
-- Mar 14 • Week 8
+- Mar 14 • [Week 8](https://github.com/ellennickles/xphoto-s24/tree/main/week8)
   - Workshop: AR Camera
   - Artist Talk: [Kat Mustatea](https://www.mustatea.com/)
 - Mar 21 • No Class (Spring Break)
