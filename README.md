@@ -40,18 +40,20 @@ Spring 2024
 - Mar 7 • [Week 7](https://github.com/ellennickles/xphoto-s24/tree/main/week7)
   - Share Homework
   - Workshop: AI Camera
-- Mar 14 • Week 8
+- Mar 14 • [Week 8](https://github.com/ellennickles/xphoto-s24/tree/main/week8)
   - Workshop: AR Camera
   - Artist Talk: [Kat Mustatea](https://www.mustatea.com/)
 - Mar 21 • No Class (Spring Break)
 - Mar 28 • Week 9
   - Share Homework
-  - Workshop: Photo Objects 1
+  - Workshop: Photo Booth 1
 - Apr 4 • Week 10
-  - Workshop: Photo Objects 2
+  - Workshop: Photo Booth 2
 - Apr 11 • Week 11
   - Share Homework
   - Final Project Assigned
+  - [Design Lab Intro](https://itp.nyu.edu/itp/design-lab/) with [Rob
+    Ryan](https://itp.nyu.edu/itp/robert-ryan/)
 - Apr 18 • Week 12
   - Final Project Proposals
 - Apr 25 • Week 13
