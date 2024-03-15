@@ -114,7 +114,7 @@ assignments](https://github.com/ellennickles/xphoto-s24/tree/main#assessment-and
     options](https://www.yelp.com/search?find_desc=bars+with+photobooths&find_loc=New+York%2C+NY)
     around town. Consider calling ahead to confirm that these locations still
     offer photo booths.
-  - HINT: The closest one to our classroom is a short walk to DeKalb Market
+  - TIP: The closest one to our classroom is a short walk to DeKalb Market
     Hall at City Point, downstairs and near the entrance to Trader
     Joe's.
 - Respond
@@ -128,7 +128,8 @@ assignments](https://github.com/ellennickles/xphoto-s24/tree/main#assessment-and
     experience.
   - Also reflect: is this experience any different from taking a selfie with
     your mobile camera or another device? Why or why not?
-  - Be sure to include at least one (1) question for discussion or further
+  - Include at least one (1) question for discussion or further
     reflection.
+  - Be prepared to share your research findings in class.
 - Submit your photo booth images and reflection on
   [Brightspace](https://brightspace.nyu.edu/d2l/home/344680).
