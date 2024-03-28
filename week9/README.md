@@ -1,4 +1,4 @@
-# Mar 29 • Week 9 • [Photobooth](http://www.photobooth.net/wp/archive/2023/11/02/PhotoboothConventionSpellingDecision.pdf) 1
+# Mar 28 • Week 9 • [Photobooth](http://www.photobooth.net/wp/archive/2023/11/02/PhotoboothConventionSpellingDecision.pdf) 1
 
 > The person who sits down in a photobooth and drops their coins into the slot
 > becomes the art, no matter what they do... There is something uniquely magical
