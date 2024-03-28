@@ -40,7 +40,7 @@
 - p5 starter sketches (use Chrome)
   - [Photobooth fullscreen]() 
   - [Photobooth fullscreen - mic
-      threshold](https://editor.p5js.org/enickles/sketches/MO6hWHhDO)
+      threshold](https://editor.p5js.org/enickles/sketches/MO6hWHhDO) (updated!)
   - [Photobooth fullscreen - ml5
     Bodypose](https://editor.p5js.org/enickles/sketches/5-FCXOAcC)
   - [Photobooth fullscreen - serial input to
