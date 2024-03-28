@@ -44,11 +44,11 @@ Spring 2024
   - Workshop: AR Camera
   - Artist Talk: [Kat Mustatea](https://www.mustatea.com/)
 - Mar 21 • No Class (Spring Break)
-- Mar 28 • Week 9
+- Mar 28 • [Week 9](https://github.com/ellennickles/xphoto-s24/tree/main/week9)
   - Share Homework
-  - Workshop: Photo Booth 1
+  - Workshop: Photobooth 1
 - Apr 4 • Week 10
-  - Workshop: Photo Booth 2
+  - Workshop: Photobooth 2
 - Apr 11 • Week 11
   - Share Homework
   - Final Project Assigned
@@ -227,8 +227,8 @@ attendance, assignments, or anything else on your mind.
 - Generative AI images with
   [Midjourney](https://www.midjourney.com/explore), a minimum $10.89 monthly
   subscription (cancel at any time), on the free platform, [Discord](https://discord.com/)
-- Augmented Reality (AR) (TBA)
-- Adobe Creative Cloud Suite Apps, which [NYU provides free of
+- Adobe Creative Cloud Suite apps including Aero for augmented reality (AR),
+  which [NYU provides free of
   charge](https://itp.nyu.edu/help/free-copy-of-adobe/). If you have trouble
   with the installation, email the ITP/IMA Adobe Help Desk Team,
   [adobelicense@itp.nyu.edu](mailto:adobelicense@itp.nyu.edu) for assistance.
