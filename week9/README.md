@@ -38,7 +38,7 @@
     photographs of themselves. They didn’t want to
     stop.](https://www.nytimes.com/2024/01/23/science/photography-rats-selfies.html?smid=nytcore-ios-share&referringSource=articleShare)
 - p5 starter sketches (use Chrome)
-  - [Photobooth fullscreen]() 
+  - [Photobooth fullscreen](https://editor.p5js.org/enickles/sketches/ZweFh_VnW) 
   - [Photobooth fullscreen - mic
       threshold](https://editor.p5js.org/enickles/sketches/MO6hWHhDO) (updated!)
   - [Photobooth fullscreen - ml5
