@@ -59,7 +59,7 @@
 [How to get full credit on weekly
 assignments](https://github.com/ellennickles/xphoto-s24/tree/main#assessment-and-evaluation)
 
-### Part 1 • Experiment / Reflect (Partners Encouraged!)
+### Part 1 • Experiment / Reflect (Partners Encouraged)
 
 - We can make our own photobooths with code. The fact that we can do this
   on our computers means that we can introduce new constraints or change the
