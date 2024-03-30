@@ -80,7 +80,8 @@ assignments](https://github.com/ellennickles/xphoto-s24/tree/main#assessment-and
   - describe any technical difficulties and anything you’re not sure about;
   - a link to your code;
   - some test shots from your photobooth ahead of next week’s class.
-- Submit your reflection on
+- If you work with a partner, each person needs to submit their own assignment.
+- Submit everything on
   [Brightspace](https://brightspace.nyu.edu/d2l/home/344680).
 
 ### Part 2 • [Read](https://drive.google.com/drive/folders/1qIvZPNF94dAizOjOpymky5bexo8bdELj) / Respond
