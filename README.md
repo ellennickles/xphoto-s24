@@ -47,7 +47,7 @@ Spring 2024
 - Mar 28 • [Week 9](https://github.com/ellennickles/xphoto-s24/tree/main/week9)
   - Share Homework
   - Workshop: Photobooth 1
-- Apr 4 • Week 10
+- Apr 4 • [Week 10](https://github.com/ellennickles/xphoto-s24/tree/main/week10)
   - Workshop: Photobooth 2
 - Apr 11 • Week 11
   - Share Homework
