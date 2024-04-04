@@ -30,7 +30,13 @@
   - [Photobooth fullscreen - repeat
     timer](https://editor.p5js.org/enickles/sketches/QwMbofVZz)
   - [Photobooth fullscreen - draw video sections left and right](https://editor.p5js.org/enickles/sketches/UWKmGMkRI)
-  - [Photobooth fullscreen - draw video section center](https://editor.p5js.org/enickles/sketches/QtyeJPVcDD)
+  - [Photobooth fullscreen - draw video section
+    center](https://editor.p5js.org/enickles/sketches/QtyeJPVcDD)
+- Related mentions in class
+  - [saveGif() in p5](https://p5js.org/reference/#/p5/saveGif)
+  - [visualize mic level](https://editor.p5js.org/enickles/sketches/DcBS-337V)
+  - [create a button](https://p5js.org/reference/#/p5/createButton)
+  - [create a dropdown menu](https://p5js.org/reference/#/p5/createSelect)
   
 ## Assignment due Wed Apr 10
 
