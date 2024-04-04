@@ -39,9 +39,24 @@ assignments](https://github.com/ellennickles/xphoto-s24/tree/main#assessment-and
 
 ### Part 1 • Experiment / Reflect
 
-- xx
-- Submit your images and your reflection on
-  [Brightspace](https://brightspace.nyu.edu/d2l/home/344680).
+- Now that you’ve had a chance to practice using your photobooth in class,
+  1. Refine your  computational, social, and/or environmental
+    photobooth design intervention based on the feedback you collected in class.
+    (If you missed this class, test your photobooth with a friend.)
+  2. Use your photobooth with at least three new participants to take
+     their portraits. TIP: there’s ALWAYS folks on our 4th floor willing to try
+     projects!
+- Include the following in your reflection this week:
+  - your observations from our in-class user testing, i.e. what worked well?
+    what was unexpected? what do you want to know more about? (If you missed
+    this session, do some testing with a friend to gather this information.)
+  - describe any design updates;
+  - your photobooth's title;
+  - a link to your code;
+  - portraits from at least three new participants;
+  - something you learned from your additional session(s) with your new users;
+- If you work with a partner, each person needs to submit their own assignment.
+- Submit everything on [Brightspace](https://brightspace.nyu.edu/d2l/home/344680).
 
 ### Part 2 • [Read](https://drive.google.com/drive/folders/1qIvZPNF94dAizOjOpymky5bexo8bdELj) / Respond
 
