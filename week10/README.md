@@ -62,7 +62,8 @@ assignments](https://github.com/ellennickles/xphoto-s24/tree/main#assessment-and
   - portraits from at least three new participants;
   - something you learned from your additional session(s) with your new users;
 - If you work with a partner, each person needs to submit their own assignment.
-- Submit everything on [Brightspace](https://brightspace.nyu.edu/d2l/home/344680).
+- Submit everything on
+  [Brightspace](https://brightspace.nyu.edu/d2l/home/344680).
 
 ### Part 2 • [Read](https://drive.google.com/drive/folders/1qIvZPNF94dAizOjOpymky5bexo8bdELj) / Respond
 

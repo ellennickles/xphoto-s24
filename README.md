@@ -49,16 +49,16 @@ Spring 2024
   - Workshop: Photobooth 1
 - Apr 4 • [Week 10](https://github.com/ellennickles/xphoto-s24/tree/main/week10)
   - Workshop: Photobooth 2
-- Apr 11 • Week 11
+- Apr 11 • [Week 11](https://github.com/ellennickles/xphoto-s24/tree/main/week11)
   - Share Homework
   - Final Project Assigned
   - [Design Lab Intro](https://itp.nyu.edu/itp/design-lab/) with [Rob
     Ryan](https://itp.nyu.edu/itp/robert-ryan/)
-- Apr 18 • Week 12
+- Apr 18 • [Week 12](https://github.com/ellennickles/xphoto-s24/tree/main/week12)
   - Final Project Proposals
-- Apr 25 • Week 13
+- Apr 25 • [Week 13](https://github.com/ellennickles/xphoto-s24/tree/main/week13)
   - Final Project User Testing
-- May 2 • Week 14
+- May 2 • [Week 14](https://github.com/ellennickles/xphoto-s24/tree/main/week14)
   - Final Project Presentations
 
 ## Syllabus
@@ -289,7 +289,7 @@ Written reading responses are worth four (4) points, one (1) point for each of t
 3. includes at least one (1) question to bring to our group for discussion;
 4. is submitted on time.
 
-#### Final Project
+#### [Final Project](https://github.com/ellennickles/xphoto-s24/tree/main/week11#final-project-assignment)
 
 The course will culminate with the completion of a final project to be shared in
 class. You are expected to push your abilities to produce something that builds
