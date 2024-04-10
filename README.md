@@ -296,7 +296,7 @@ class. You are expected to push your abilities to produce something that builds
 off or is inspired by the concepts explored during the semester. For the final
 project you are expected to present a project proposal, create a working
 prototype to share for peer feedback, and present a completed final project to
-our class. More information will be provided later in the semester.
+our class. Full description: [Final Project Assignment](https://github.com/ellennickles/xphoto-s24/tree/main/week11#final-project-assignment)
 
 ##### Grading Rubric for Final Project
 

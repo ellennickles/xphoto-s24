@@ -155,6 +155,6 @@ Your final project for this course is a three (3) week assignment to be complete
   to write a post and present for five (5) minutes each.
 - This assignment is worth five (5) points: four (4) for describing your project
   proposal using relevant aspects of the list above and one (1) for submitting
-  the post on time.
+  the assignment on time.
 - Submit on
   [Brightspace](https://brightspace.nyu.edu/d2l/home/344680).

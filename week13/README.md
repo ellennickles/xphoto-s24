@@ -16,13 +16,14 @@
 
 ### Part 2 • Final Documentation
 
-Write your final project documentation in the form of a blog post. It's up to
-you to figure out how to best document your project. Here are some loose
-guidelines if you aren't sure what to include:
+Write your final project documentation in the form of a post to submit on
+Brightspace. Guidelines for what to include:
 
 - **Title** and one-sentence description
 - **Link** to project (if online)
 - **Project summary** • 250-500 words
+- **Visual media** • Images and/or video to describe your project. If your
+  project is interactive, be sure to include video of the interaction.
 - **Inspiration** • How did you become interested in this idea? Quotes,
   photographs, products, projects, people, music, political events, social ills,
   etc.
@@ -46,7 +47,7 @@ guidelines if you aren't sure what to include:
 - If your project is a physical object, please bring it to class.
 - If your project involves physical interaction, prepare a short video (~2 min)
   of the experience as a backup.
-- HINT: Use your final documentation blog post as an outline.
+- HINT: Use your final documentation post as an outline.
 
 This assignment is worth ten (10) points: five (5) for the project
 implementation and five (5) for the documentation and presentation.

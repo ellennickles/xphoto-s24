@@ -58,7 +58,8 @@
 - If you are working in a group, each person needs to contribute and submit a
   post documenting their contributions.
 - This assignment is worth five (5) points: two (2) for describing your
-  project's progress, two (2) for describing your user testing plan and
-  questions, and one (1) for submitting the post on time.
+  project's progress (be sure to includes images and/or video), two (2) for
+  describing your user testing plan and questions, and one (1) for submitting
+  the assignment on time.
 - Submit on
   [Brightspace](https://brightspace.nyu.edu/d2l/home/344680).
