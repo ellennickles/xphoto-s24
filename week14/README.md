@@ -5,4 +5,4 @@
 ## In class
 
 - Presentations 🙌
-- Course evaluation (link TBA)
+- [Course evaluation](https://go.blueja.io/Q0aI9ImJk0i_a7skSf0yPQ)
