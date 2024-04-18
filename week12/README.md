@@ -7,10 +7,6 @@
 - Propose final projects
 - Discuss upcoming schedule
 
-## Resources
-
-- [Slides](https://drive.google.com/drive/folders/1qIvZPNF94dAizOjOpymky5bexo8bdELj?usp=drive_link)
-
 ## Assignment due Wed Apr 24
 
 ### Prepare for user testing next week
