@@ -306,9 +306,9 @@ Specific grading criteria for each stage will be provided later in the semester.
 
 All assignments are required, and unless otherwise stated, are **due the night before our class meets**, one (1) week after they are assigned. Assignments turned in late will receive partial credit, as described in the grading rubrics above.
 
-#### Late Assignments
+#### Late Assignments [Updated]
 
-Late assignments will be accepted for partial credit. If you anticipate any challenges meeting the assignment deadlines, please reach out to me so that we can consider your options together. The last day to submit late work for partial credit is Monday, May 6, 2023, at 12:00pm (noon).
+Late assignments will be accepted for partial credit. If you anticipate any challenges meeting the assignment deadlines, please reach out to me so that we can consider your options together. The last day to submit late work for partial credit, or work for which you have requested an extension (which will not be considered late), is Monday, May 6, 2023, at 12:00pm (noon).
 
 #### Extensions
 
