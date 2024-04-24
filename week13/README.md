@@ -41,7 +41,7 @@ Brightspace. Guidelines for what to include:
 
 ### PART 3 • Prepare Presentation
 
-- Prepare a five (5)-min presentation about your project. Feel free to include
+- Prepare a four (4)-min presentation about your project. Feel free to include
   any questions to direct feedback after your presentation.  
 - If your project is online, be prepared to share a link.
 - If your project is a physical object, please bring it to class.
